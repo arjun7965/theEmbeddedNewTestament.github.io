@@ -9,6 +9,10 @@
 
 ---
 
+> [!TIP]
+> **🌐 A dedicated website for this repo is now live!**  
+> **👉 [embeddedinterviewlab.com](https://embeddedinterviewlab.com/)** — focused on system-level embedded interview knowledge, practice, and more.
+
 ## 🎯 **Interview Preparation Strategy**
 
 ### **🔥 High Priority (95%+ of interviews)**
