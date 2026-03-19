@@ -115,6 +115,13 @@ System Integration Security         IoT & Wireless       System Design
 
 ## 📚 **Additional Resources**
 
+### **Embedded Interview Prep Platform**
+[**EmbeddedInterviewLab**](https://embeddedinterviewlab.com/) — Comprehensive embedded systems interview preparation:
+
+- **[Knowledge Topics](https://embeddedinterviewlab.com/topics/)** — 55+ in-depth articles across C programming, MCU architecture, peripherals, RTOS, networking, wireless, and more
+- **[Interview Prep](https://embeddedinterviewlab.com/interview/)** — Concept Q&A, coding problems, and system design patterns for embedded interviews
+- **[Coding Practice](https://embeddedinterviewlab.com/coding/)** — Write C/C++ solutions with AI-powered feedback (arrays, strings, linked lists, bit manipulation, systems programming)
+
 ### **Books**
 - "Making Embedded Systems" by Elecia White
 - "Programming Embedded Systems" by Michael Barr
@@ -127,6 +134,7 @@ System Integration Security         IoT & Wireless       System Design
 - [GitHub](https://github.com/) - Open-source embedded projects and examples
 
 ### **Practice Platforms**
+- [EmbeddedInterviewLab Coding](https://embeddedinterviewlab.com/coding/) - Embedded-focused C/C++ problems with AI feedback
 - [LeetCode](https://leetcode.com/) - Algorithm and data structure problems
 - [HackerRank](https://www.hackerrank.com/) - Programming challenges
 - [Embedded Systems Academy](https://www.embedded-systems-academy.com/) - Training and certification
